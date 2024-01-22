@@ -26,4 +26,3 @@
 10) Find best location listing/property location for travellers
 11) Find best location listing/property location for hosts
 12) Find price variations in NYC neighbourhood groups
-13) 
