@@ -1,11 +1,11 @@
 # Airbnb-Data-Analysis
  Airbnb is a popular online platform that allows individuals to list,discover and book unique accomodations around the world.
- # Python Libraries Used to complete this EDA
+ ## Python Libraries Used to complete this EDA
  1) Numpy
  2) Pandas
  3) Matplotlib
  4) Seaborn
-# ProjectWorkflow
+## ProjectWorkflow
  1) Importing Libraries
  2) Loading the Dataset
  3) Explore Dataset
