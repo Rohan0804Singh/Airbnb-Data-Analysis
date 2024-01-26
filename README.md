@@ -1,5 +1,5 @@
 # Airbnb-Data-Analysis
- Airbnb is a popular online platform that allows individuals to list,discover and book unique accomodations around the world.
+ Airbnb is a popular online platform that allows individuals to list,discover and book unique accomodations around the world.To see more about Airbnb click on the link https://www.airbnb.co.in/
  ## Python Libraries Used to complete this EDA
  1) Numpy
  2) Pandas
