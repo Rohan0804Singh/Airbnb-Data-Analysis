@@ -26,3 +26,6 @@
 10) Find best location listing/property location for travellers
 11) Find best location listing/property location for hosts
 12) Find price variations in NYC neighbourhood groups
+
+## Feedback and Support
+For any queries, feedback or suggestions please reach out to: rohan0804singh@gmail.com
